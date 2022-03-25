@@ -1,0 +1,43 @@
+.button {
+  padding-left: 4rem;
+  padding-right: 4rem;
+  padding-top: 1rem;
+  font-size: 1.5rem;
+  padding-bottom: 1rem;
+  background-color: aqua;
+  color: black;
+  margin-left: 40%;
+  margin-top: 20%;
+}
+.hidden {
+  display: none;
+}
+.table {
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  display: flex;
+  margin-left: 5rem;
+}
+
+.fullName {
+  width: 10rem;
+}
+
+.email {
+  width: 15rem;
+}
+
+.number {
+  width: 8rem;
+}
+
+.city {
+  width: 9rem;
+}
+
+.url {
+  width: 35rem;
+}
